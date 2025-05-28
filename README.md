@@ -48,7 +48,7 @@
   - 安装命令: `pip install pywin32`
 - **软件**: **已安装并已激活的** Microsoft Office (Word 和 Excel 2007或更高版本)
 
-## 安装与使用
+## 安装与使用 （没有安装pyhon的用户，建议直接使用WINDOWS的应用程序版本：启动OfficeConverter.exe）
 
 ### 1. 环境准备
 ```bash
@@ -63,9 +63,6 @@ python office_converter_gui.py
 
 # 或使用批处理文件（Windows）
 启动GUI转换工具.bat
-
-# 或使用WINDOWS的应用程序版本
-启动OfficeConverter.exe
 ```
 
 ### 3. 使用步骤
