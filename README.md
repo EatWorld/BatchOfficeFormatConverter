@@ -64,6 +64,8 @@ python office_converter_gui.py
 # 或使用批处理文件（Windows）
 启动GUI转换工具.bat
 ```
+# 或使用WINDOWS的应用程序版本
+
 
 ### 3. 使用步骤
 1. **选择源目录**: 点击"浏览"按钮选择要转换的文件夹
