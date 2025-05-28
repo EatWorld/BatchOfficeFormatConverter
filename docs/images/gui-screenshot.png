@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <!-- 窗口背景 -->
+  <rect width="1200" height="800" fill="#f0f0f0" stroke="#ccc" stroke-width="2"/>
+  
+  <!-- 标题栏 -->
+  <rect x="0" y="0" width="1200" height="40" fill="#e8e8e8" stroke="#ccc" stroke-width="1"/>
+  <text x="20" y="25" font-family="Microsoft YaHei" font-size="14" fill="#333">📄 Office格式批量转换工具</text>
+  <text x="1100" y="25" font-family="Arial" font-size="16" fill="#666">— □ ✕</text>
+  
+  <!-- 菜单栏 -->
+  <rect x="0" y="40" width="1200" height="30" fill="#f8f8f8" stroke="#ddd" stroke-width="1"/>
+  <text x="20" y="58" font-family="Microsoft YaHei" font-size="12" fill="#333">帮助</text>
+  <text x="80" y="58" font-family="Microsoft YaHei" font-size="12" fill="#333">Language</text>
+  
+  <!-- 主标题 -->
+  <text x="600" y="110" font-family="Microsoft YaHei" font-size="24" font-weight="bold" fill="#4285f4" text-anchor="middle">📄 Office 文档批量转换工具</text>
+  
+  <!-- 左侧面板 -->
+  <rect x="20" y="140" width="580" height="520" fill="white" stroke="#e0e0e0" stroke-width="1" rx="8"/>
+  
+  <!-- 选择转换目录 -->
+  <text x="40" y="170" font-family="Microsoft YaHei" font-size="14" font-weight="bold" fill="#333">📁 选择转换目录</text>
+  <rect x="40" y="180" width="480" height="35" fill="#f8f9fa" stroke="#ddd" stroke-width="1" rx="4"/>
+  <rect x="520" y="185" width="60" height="25" fill="#4285f4" rx="4"/>
+  <text x="550" y="200" font-family="Microsoft YaHei" font-size="12" fill="white" text-anchor="middle">浏览</text>
+  
+  <!-- 转换选项 -->
+  <text x="40" y="250" font-family="Microsoft YaHei" font-size="14" font-weight="bold" fill="#333">⚙️ 转换选项</text>
+  <rect x="40" y="260" width="15" height="15" fill="#4285f4" stroke="#4285f4" stroke-width="1"/>
+  <text x="65" y="272" font-family="Microsoft YaHei" font-size="12" fill="#333">转换 DOC → DOCX</text>
+  <rect x="240" y="260" width="15" height="15" fill="#4285f4" stroke="#4285f4" stroke-width="1"/>
+  <text x="265" y="272" font-family="Microsoft YaHei" font-size="12" fill="#333">转换 XLS → XLSX</text>
+  
+  <rect x="40" y="290" width="15" height="15" fill="#4285f4" stroke="#4285f4" stroke-width="1"/>
+  <text x="65" y="302" font-family="Microsoft YaHei" font-size="12" fill="#333">保留原始时间戳</text>
+  
+  <!-- 原文件处理 -->
+  <text x="40" y="340" font-family="Microsoft YaHei" font-size="14" font-weight="bold" fill="#333">📁 原文件处理</text>
+  <circle cx="47" cy="360" r="6" fill="#4285f4"/>
+  <text x="65" y="365" font-family="Microsoft YaHei" font-size="12" fill="#333">备份到默认文件夹</text>
+  <circle cx="227" cy="360" r="6" fill="white" stroke="#ccc" stroke-width="1"/>
+  <text x="245" y="365" font-family="Microsoft YaHei" font-size="12" fill="#333">备份到自定义文件夹</text>
+  
+  <rect x="60" y="380" width="420" height="30" fill="#f8f9fa" stroke="#ddd" stroke-width="1" rx="4"/>
+  <rect x="490" y="385" width="50" height="20" fill="#e0e0e0" stroke="#ccc" stroke-width="1" rx="3"/>
+  <text x="515" y="397" font-family="Microsoft YaHei" font-size="10" fill="#666" text-anchor="middle">选择</text>
+  
+  <!-- 控制面板 -->
+  <text x="40" y="440" font-family="Microsoft YaHei" font-size="14" font-weight="bold" fill="#333">🎮 控制面板</text>
+  <rect x="40" y="450" width="100" height="35" fill="#34a853" rx="6"/>
+  <text x="90" y="470" font-family="Microsoft YaHei" font-size="12" fill="white" text-anchor="middle">✓ 开始转换</text>
+  <rect x="160" y="450" width="80" height="35" fill="#e0e0e0" rx="6"/>
+  <text x="200" y="470" font-family="Microsoft YaHei" font-size="12" fill="#666" text-anchor="middle">⏹ 停止转换</text>
+  
+  <!-- 右侧面板 -->
+  <rect x="620" y="140" width="560" height="520" fill="white" stroke="#e0e0e0" stroke-width="1" rx="8"/>
+  <text x="640" y="170" font-family="Microsoft YaHei" font-size="14" font-weight="bold" fill="#333">📋 转换日志</text>
+  
+  <!-- 日志区域 -->
+  <rect x="640" y="180" width="520" height="420" fill="#f8f9fa" stroke="#ddd" stroke-width="1" rx="4"/>
+  
+  <!-- 日志按钮 -->
+  <rect x="640" y="620" width="80" height="30" fill="#ff9800" rx="4"/>
+  <text x="680" y="638" font-family="Microsoft YaHei" font-size="12" fill="white" text-anchor="middle">💡 清空日志</text>
+  <rect x="740" y="620" width="80" height="30" fill="#4285f4" rx="4"/>
+  <text x="780" y="638" font-family="Microsoft YaHei" font-size="12" fill="white" text-anchor="middle">💾 保存日志</text>
+  
+  <!-- 底部状态栏 -->
+  <rect x="20" y="680" width="1160" height="100" fill="white" stroke="#e0e0e0" stroke-width="1" rx="8"/>
+  <text x="40" y="710" font-family="Microsoft YaHei" font-size="14" font-weight="bold" fill="#333">📊 转换进度</text>
+  
+  <!-- 进度条 -->
+  <rect x="40" y="720" width="1120" height="20" fill="#e0e0e0" stroke="#ccc" stroke-width="1" rx="10"/>
+  <rect x="40" y="720" width="0" height="20" fill="#4285f4" rx="10"/>
+  
+  <!-- 状态信息 -->
+  <circle cx="55" cy="760" r="8" fill="#34a853"/>
+  <text x="75" y="765" font-family="Microsoft YaHei" font-size="12" fill="#333">就绪</text>
+  <text x="850" y="765" font-family="Microsoft YaHei" font-size="12" fill="#666">📈 可转换文件: 0 | ✅ 已转换: 0 | ⏭️ 跳过: 0 | ❌ 错误: 0</text>
+</svg>
