@@ -76,6 +76,8 @@ python office_converter_gui.py
 
 ## 界面预览
 
+![软件界面截图](docs/images/gui-screenshot.png)
+
 ### 主界面功能区域
 - **左侧控制面板**: 目录选择、转换选项、原文件处理设置
 - **右侧日志区域**: 实时转换日志显示
@@ -124,6 +126,8 @@ BatchOfficeFormatConverter/
 ├── 启动GUI转换工具.bat        # Windows批处理启动文件
 ├── README.md                  # 说明文档
 └── docs/                      # 文档目录
+    └── images/                # 图片资源
+        └── gui-screenshot.png # 界面截图
 ```
 
 ## 版本信息
