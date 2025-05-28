@@ -76,7 +76,7 @@ python office_converter_gui.py
 
 ## 界面预览
 
-![软件界面截图](docs/images/gui-screenshot.png)
+![软件界面截图](docs/images/1748459334414.jpg)
 
 ### 主界面功能区域
 - **左侧控制面板**: 目录选择、转换选项、原文件处理设置
