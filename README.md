@@ -2,6 +2,7 @@
 
 ## 简介
 本工具提供了一个现代化的图形用户界面（GUI），帮助用户批量将指定目录及其子目录下的旧版 Microsoft Office 文件（`.doc` 和 `.xls`）转换为现代格式（`.docx` 和 `.xlsx`）。工具支持中英文双语界面，具有直观的操作界面和实时的转换进度显示。
+**兼容WPS文档及表格，WPS文件均可转换。**
 
 ## 功能特性
 
@@ -133,7 +134,7 @@ BatchOfficeFormatConverter/
 ## 版本信息
 - **当前版本**: GUI v2.0
 - **Python兼容**: Python 3.x
-- **Office兼容**: Microsoft Office 2007及以上版本
+- **Office兼容**: Microsoft Office 2007及以上版本，WPS所有版本
 - **最后更新**: 添加了现代化GUI界面，支持双语切换和实时进度监控
 
 ## 开源协议
